@@ -14,19 +14,19 @@ A checklist for contributing in SMACSS, BEM, and KSS in SASS
 - [ ] Are your "Blocks" a "Standalone entity that is meaningful on its own"?
  - Use class name selector only IE ".block"
  - No tag names or IDs
- - No depnedency on other blocks/elements
+ - No dependency on other blocks/elements
 - [ ] Are your Elements organized in relation to Blocks? IE ".block__elem"
  - Use class name selector only
  - No tag name or ids
  - No dependency on other blocks/elements on a page
 - [ ] Are your Modifiers correctly related to Elements or Blocks? IE ".block--hidden { }"
+- [ ] Are you putting your rules in a single appropriately-named [class](http://csswizardry.com/2012/05/keep-your-css-selectors-short/)? If not, comment in you reasoning.
 
 
 ## Organized
 [SMACSS](https://smacss.com)
 
 - [ ] Is this Base, Layout, Module/Component, or Theme? Is it in the right folder for that?
-- [ ] Are states with their appropriate parents?
 - [ ] Have you minimized the depth?
 - [ ] Have you optimized performance?
   - Use child selectors
