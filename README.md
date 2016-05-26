@@ -132,6 +132,7 @@ The comments descibe usage and exceptions to the CSS style recommendations
 
 
 References:
-[Evolving Product CSS from Dinosaur to Juicy Snake](https://blog.prototypr.io/evolving-product-css-from-dinosaur-to-juicy-snake-4e4392fce8e8#.tk7ouqprf)
-[SMACSS Your Theme Up](http://amanire.github.io/smacss-your-theme-up)
-[Zen](https://www.drupal.org/project/zen)
+
+- [Evolving Product CSS from Dinosaur to Juicy Snake](https://blog.prototypr.io/evolving-product-css-from-dinosaur-to-juicy-snake-4e4392fce8e8#.tk7ouqprf)
+- [SMACSS Your Theme Up](http://amanire.github.io/smacss-your-theme-up)
+- [Zen](https://www.drupal.org/project/zen)
