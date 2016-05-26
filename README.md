@@ -22,6 +22,21 @@ A checklist for contributing in SMACSS, BEM, and KSS in SASS
 - [ ] Are your Modifiers correctly related to Elements or Blocks? IE ".block--hidden { }"
 - [ ] Are you putting your rules in a single appropriately-named [class](http://csswizardry.com/2012/05/keep-your-css-selectors-short/)? If not, comment in you reasoning.
 
+### Examples
+```
+.block {}
+.block__element {}
+.block--modifier {}
+```
+
+```
+.component-name {}
+  .component-name--variant {}
+  .component-name__sub-object {}
+  .component-name__sub-object--variant {}
+  
+```
+
 
 ## Organized
 [SMACSS](https://smacss.com)
@@ -45,3 +60,6 @@ A checklist for contributing in SMACSS, BEM, and KSS in SASS
 - [ ] Compatibility section
 
 
+References:
+[Evolving Product CSS from Dinosaur to Juicy Snake](https://blog.prototypr.io/evolving-product-css-from-dinosaur-to-juicy-snake-4e4392fce8e8#.tk7ouqprf)
+[SMACSS Your Theme Up](http://amanire.github.io/smacss-your-theme-up)
