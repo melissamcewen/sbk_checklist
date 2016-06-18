@@ -8,8 +8,6 @@ The basic goals:
 - [ ] New contributions are organized correctly
 - [ ] New contributions are documented
 
->  Class names should communicate useful information to developers. It’s helpful to understand what a specific class name is going to do when you read a DOM snippet, especially in multi-developer teams where front-enders won’t be the only people working with HTML components.
- - [Twitter engineer Nicholas Gallagher](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
 ## Class Naming
 [BEM](http://getbem.com/)
