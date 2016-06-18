@@ -3,10 +3,12 @@
 # SBK Checklist
 A checklist for contributing in SMACSS, BEM, and KSS in SASS
 
-
-- [ ] New contributions have correct class names
+The basic goals:
+- [ ] New contributions have class names that are meaningful and useful
 - [ ] New contributions are organized correctly
 - [ ] New contributions are documented
+
+>  Class names cannot be “unsemantic”. Whatever names are being used: they have meaning, they have purpose. - [Twitter engineer Nicholas Gallagher](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
 ## Class Naming
 [BEM](http://getbem.com/)
