@@ -21,7 +21,7 @@ The basic goals:
  - No dependency on other blocks/elements on a page
 - [ ] Are your Modifiers correctly related to Elements or Blocks? IE ".block--hidden { }"
 - [ ] Are you putting your rules in a single appropriately-named [class](http://csswizardry.com/2012/05/keep-your-css-selectors-short/)? If not, comment in your reasoning.
-- [ ] Is your styling based around BEM classes rather than general HTML elements (.class-name rather than div or img or a)? If not, comment in your reasoning. 
+- [ ] Is your styling based around BEM classes rather than general HTML tags (.semantic-BEM-class-name rather than div or img or a)? If not, comment in your reasoning. 
 
 
 ### Examples
